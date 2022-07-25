@@ -1,5 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=OFP-TR&show_icons=true">
-
 # Hey, I'm Omer Faruk PAKER! 
 I'm a student in Electrical & Electronics Engineering department and on the verge of graduation.
 
